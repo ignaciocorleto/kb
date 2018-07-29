@@ -1,2 +1,2 @@
 # Wiki / KB
-http://ignaciocorleto.github.io
+http://ignaciocorleto.github.io/wiki
